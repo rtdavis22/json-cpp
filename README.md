@@ -1,0 +1,1 @@
+##### This is a header-only JSON serializer. It	likely doesn't conform to the standard, but it was enough to meet my needs. I may add support for deserialization in the future. If you're interested in implementing it, let me know.
